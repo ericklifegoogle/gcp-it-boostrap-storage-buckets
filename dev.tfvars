@@ -1,4 +1,4 @@
-project_id    = "bogota-bod"
+project_id    = "ericks-app"
 environment   = "dev"
 storage_class = "STANDARD"
 location      = "US-EAST1"
